@@ -1,0 +1,376 @@
+Q1. Why do we call Python as a general purpose and high-level programming language?
+A1. Python is easy to utilize, powerful, and versatile, making it a great cull for beginners and experts kindred.Python is versatile Because it's a general-purpose language, you can use Python to do and create many different things. For example, a data scientist might use Python to generate visualizations or manipulate data, and a web developer might use Python to create a website. Python is a High-Level Programming language?
+    Python is a High-Level Programming language because :	
+      * Python is easy to use: 
+        It is simple with an easily readable syntax and that makes it well-loved by both seasoned developers and experimental students. The simplicity of Python betokens that developers can fixate on genuinely solving the Machine Learning quandary rather than spend all their time (and energy) understanding just the technical nuances of the language.
+      * Python runs on any platform: 
+        Not only is Python profoundly utilizer-amicable, but it also runs everywhere. It runs on Windows, Unix, Linux, MacOS, and 21 different platforms including z/0s, Solaris, and VMS.
+      * Extensive support libraries:
+        It provides large standard libraries that include the areas like string operations, Internet, web accommodation implements, operating system interfaces, and protocols. Most of the highly used programming tasks are already scripted into it that constrains the length of the codes to be inscribed in Python.
+      * Python is accessible:
+	For newcomers and beginners, Python is incredibly easy to learn and use. In fact, it’s one of the most accessible programming languages available. Part of the reason is the simplified syntax with an emphasis on natural language. But it’s also because you can write Python code and execute it much faster. 
+      * Incredible Artificial Intelligence and Machine Learning support:
+	Python is the number one choice when it comes to rapidly develop and demandable technologies like Artificial Intelligence and Machine Learning. Python libraries and packages are no less than a wonder as it withal contains code packages dedicated to programming premium high-level industry-concrete software with astute machine learning capabilities.
+
+Q2. Why Python called a dynamically typed language?
+A2. Python don't have any problem even if we don't declare the type of variable. It states the kind of variable in the runtime of the program. Python also take cares of the memory management which is crucial in programming. So, Python is a dynamically typed language.
+
+Q3. List some pros and cons of Python programming language?
+A3. Pros of Python:
+1. Beginner-Friendly 
+	Python is an excellent platform for beginners who want to step into coding. This programming language is easy to learn, understand and code as it does not include too many technicalities.
+	Even the developers who are new to coding and do not have experience in it find it beginner-friendly. It is a verbose language because reading python is very similar to reading English.
+	The language does not need curly braces to define the blocks deep into the technicalities. However, indentation is mandatory, which further aids in the readability of code.
+
+2. Large Community
+	The Python community boasts many coders, developers, professionals, and students on the same platform, helping one another and bringing the best out of it. 
+	This feature makes Python one of the best platforms for developers as they can seek help from experienced and knowledgeable developers.
+
+3. Flexible and Extensible
+	Python is extremely flexible and can be extended to other languages. Developers can write code in C  and C++ and build new features in the dynamically-typed language.
+
+4. Extensive Libraries 
+	Python features an extensive set of libraries and contains code for various purposes like documentation-generation, regular expressions, web-browsers, unit-testing, CGI, databases, image manipulation, etc. Hence, it eliminates the need to write the complete code manually.
+
+5. Embeddable
+	Python is extensible, and most of its codes can even be written in other languages such as C++. This lets us add scripting capabilities to our code in the other language.
+
+6. Highly Scalable
+	Python is scalable, and many apps are in the market to prove it. Instagram and Pinterest are two of the most popular apps, receiving millions of user requests successfully.
+	Instagram, Pinterest, and Facebook are some of the most popular applications in everyday use that outshine the power of Python.
+
+7. IOT Opportunities
+	Since Python forms the basis of new platforms like Raspberry Pi, it finds the future bright for the Internet Of Things.
+	Python is a way to connect the language with the real world. With Python and Raspberry Pi, the future for IoT is bright. Raspberry is a popular device used to integrate IoT technologies into real-world applications.
+
+8. Machine Learning
+	Python is an excellent choice when your business needs web projects to be integrated with Machine Learning algorithms. Web Projects that require Python use it because it provides rich libraries, making it easier for the developers to work with data.
+
+9. Portable
+	Python is portable, which means it can be run on any other platform. Here, you need to code only once, and you can run it anywhere. This is called WORA (Write Once Run Anywhere). This makes it easier for the developers to work with Python as they do not need to make changes to it in case they want to run it on another platform.
+
+	Cons of Python:
+1. Issues with Design
+	Python developers sometimes have to deal with complicated designs. Therefore, highly efficient and experienced developers are preferred over beginners.
+
+2. Slower than Compiled Languages
+	Python is slow compared to other non-compiled languages as it requires a lot of computational power. So, this is the thing that you need to look at before choosing Python.
+
+3. Security
+	Python is not 100% secure. You need to take the necessary steps to ensure the code’s security. However, performing the right QA testing can fix this concern.
+
+4. Work Environment
+	Before working with Python, you must set up a work environment. Many trouble can arise while setting up the environment, affecting beginners’ programming experience. 
+	So, it would be better to go for Python IDEs and set up the environment with the help of official guides.
+
+5. Python’s Memory Consumption and Garbage Collection
+	Python language comes with high memory usage, and the high memory consumption should be tackled carefully during the project. It uses reference counting in its garbage collection, which often leads to potential memory losses.
+
+6. Python is Dynamically Typed
+	Developers working in Data Science and Machine Learning projects prefer statically-typed language over dynamically typed language. The reason is that the statically typed language potentially minimizes a lot of errors and bugs in the system.
+
+7. Multithreading in Python 
+	Multithreading in Python is not exactly true multithreading due to its global interpreter lock (GIL). The multithreading model in Python does not have threads that run at the same time. Here, one thread can hold the GIL at one time, which clearly implies that this is not the exact multithreading.
+	Python developers need to use a different implementation of Python such as Jython, IronPython, PyPy, or C extension to achieve true multithreading.
+
+Q4. In what all domain we use Python?
+A4. Python's versatility enables it to be used in a wide range of applications across various industries. Let's take a look at some of the ways Python is used.
+Data science: analytics and visualization
+	Data science is one of the most popular uses for Python. Data scientists and analysts use programming languages like Python and R to manipulate data for reporting, predictive analysis, and more. But while R can be a great choice, many Data Scientists prefer to learn Python because its English-like syntax can be easier to learn. Check out our free course Getting Started with Python for Data Science if you want to learn how to use Python to work with data.
+	Harvesting insights from data is no easy task, and data scientists don't have time to waste with compiling and complicated syntax. Python's simple syntax and extensive selection of third-party libraries make it a great choice for anyone considering a career in data science.
+
+Machine learning
+	While arguably a subfield of data science, machine learning deserves its own category because of its unique algorithms. Machine learning involves training systems to learn independently by using algorithms that constantly update themselves based on input data. These systems gradually learn to handle new situations by generating an output based on past datasets. Then, based on the outcome of this new situation, they update themselves to deal with the new variables, thus constantly evolving.
+
+Web development: websites and web apps
+	Python is also widely used for back-end development, where it runs in the server of web applications and interacts with databases and APIs after a user requests data from the app's front-end in the browser.
+	Much of Python's popularity in web development stems from frameworks and libraries like Django and Flask that extend the language's utility.
+
+Financial analysis
+	In a recent HackerRank survey, Python was the number one programming language FinTech companies looked for when hiring developers. But it's not only FinTech enterprises that use Python code. Python is used everywhere in the financial industry because of its data processing capabilities and various third-party libraries designed for financial analysis.
+
+Desktop applications
+	You can also use Python to build desktop applications. Many Linux and open-source desktop applications use Python. Plus, with GUI libraries like Tk, wxWidgets, and Qt, you can use Python to build cross-platform applications that run on Windows, Mac, or Linux.
+
+Business applications
+	Python lies at the heart of business software like Tryton and Odoo. These tools are used for enterprise development and can perform accounting, inventory, customer relationship management, and other tasks.
+	In short, many businesses rely on Python to do the heavy lifting. This has led to more and more startups including Python in their tech stacks for its ease of use and scalability.
+
+Scripting and utility software
+	Python started as a language for writing utility scripts, and it's still widely used for this purpose. Many of the utilities and scripts built into Linux operating systems are written in Python, and it's also installed by default in the Mac OS. This makes Python the language of choice for automating tasks in an engineer's day-to-day work.
+
+Q5. What are variable and how can we declare them ?
+A5. Variables are containers for storing data values. Python has no command for declaring a variable. A variable is created the moment you first assign a value to it. 
+    Variables do not need to be declared with any particular type, and can even change type after they have been set.
+
+Q6. How can we take an input from the user in Python?
+A6. Programs are written to solve a specific problem of a user. Thus, the program must be such which can interact with the user. This means that a program must take input from the user and perform the task accordingly on the input which user provides.
+    The method to take input is different for different datatypes. We’ll discuss how to take input for various datatypes as well as how to take array input from the user.
+
+* String Input
+	The input() method is used to take string input from the user.The user can enter numeric value as well but it will be treated as a string. The program can contain any logic or operation to be performed on the string entered by the user ,but in example, we’ll simply print the string which the user enters.
+
+Example
+print("Enter a string")
+a=input()
+print("The string entered by user is",a)
+Output
+Enter a string
+Anamika
+The string entered by user is Anamika
+The above example upon execution, prints the message “Enter a string” on the output screen and lets the user enter something. When input() function executes, the program flow will be stopped until the user gives some input. After entering the string, the second print statement executes.
+
+* Integer Input
+	The integer input can be taken by just type casting the input received into input(). Thus, for taking integer input, we use int(input()) . Only numerical values can be entered by the user, else it throws an error.
+
+Example
+print("Enter a number")
+a=int(input())
+print("The number entered by user is",a)
+Output
+Enter a number
+10
+The number entered by user is 10
+* Float Input
+	The float input can be taken by type casting input received in input() .We’ll use float(input()) to take float input. The user can enter integer or float values but the value will be treated as float.
+
+Example
+print("Enter a number")
+a=float(input())
+print("The number entered by user is",a)
+Output
+Enter a number
+2.5
+The number entered by user is 2.5
+
+*Take Input as Array of Integers
+	We may at times, need to take an array as input from the user. There is no separate syntax for taking array input.
+
+Example
+print("Enter no. of elements")
+a=int(input())
+print("Enter",a,"integer elements")
+array=[]
+for i in range(a):
+   array.append(int(input()))
+print("Array entered by user is",array)
+Output
+Enter no. of elements
+5
+Enter 5 integer elements
+1
+2
+3
+4
+5
+Array entered by user is [1, 2, 3, 4, 5]
+
+Q7. What is the default datatype of the value that has been taken as an input using input() function?
+A7. The input function translates whatever you give it as input into a string. 
+    Even if an integer value is entered, the input () method accepts it as a string.
+
+Q8. What is type casting?
+A8. There may be times when you want to specify a type on to a variable. This can be done with casting. Python is an object-orientated language, and as such it uses classes to define data types, including its primitive types.
+
+Casting in python is therefore done using constructor functions:
+
+int() - constructs an integer number from an integer literal, a float literal (by removing all decimals), or a string literal (providing the string represents a whole number)
+float() - constructs a float number from an integer literal, a float literal or a string literal (providing the string represents a float or an integer)
+str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
+
+Q9. Can we take more than one input from the user using single input() funtion? If yes, how?If no, why ?
+A9. We need to use a single input. In this case we can split our input using the .split(separator) method of the string, which returns a list of parts of the given string. separator argument is optional: if the user enters the numbers separated by whitespace characters, you don't need to pass this argument, otherwise you need to pass a separator.
+
+numbers = input("Enter the numbers... ").split()  # if numbers are separated by any of whitespace characters ("1 2 3 4")
+numbers = input("Enter the numbers... ").split(", ")  # if numbers are separated by a comma and a space ("1, 2, 3, 4")
+
+
+Q10. What are keywords?
+A10. Keywords in Python are reserved words that can not be used as a variable name, function name, or any other identifier.
+	The list of keywords is : 
+	[‘False’, ‘None’, ‘True’, ‘and’, ‘as’, ‘assert’, ‘async’, ‘await’, ‘break’, ‘class’, ‘continue’, ‘def’, ‘del’, ‘elif’, 
+	‘else’, ‘except’, ‘finally’, ‘for’, ‘from’, ‘global’, ‘if’, ‘import’, ‘in’, ‘is’, ‘lambda’, ‘nonlocal’, ‘not’, ‘or’, 
+	‘pass’, ‘raise’, ‘return’, ‘try’, ‘while’, ‘with’, ‘yield’]
+
+Q11. Can we use keywords as a variable?Support your answer with reason.
+A11. Keywords are predefined, reserved words used in Python programming that have special meanings to the compiler.
+	We cannot use a keyword as a variable name, function name, or any other identifier. They are used to define the syntax and structure of the Python language.
+
+Q12. What is indentation?What is the use of indentation inb Python?
+A12. Python indentation refers to adding white space before a statement to a particular block of code. In another word, all the statements with the same space to the right, belong to the same code block.
+     In Python, indentation is used mainly to know which statement belongs to which block and accordingly, the interpreter will execute the Python code.
+
+Q13. How can we throw some output in Python?
+A13. Output in Python is carried out using the print statement. print('text here') will output text here to the screen.
+
+Q14. What are operators in Python?
+A14. Operators in python are constructs in Python that instruct the interpreter to perform a certain function; however, these are traditionally not defined as functions; rather, they are syntactically and semantically different from functions. Operators are used to performing operations on variables and values according to their use.
+	Python language supports the following types of operators.
+	Arithmetic Operators
+	Bitwise Operators
+	Membership Operators
+	Identity Operators
+	Comparison Operators
+	Assignment Operators
+	Logical Operators
+
+Q15. What is difference between / and // operators?
+A15. In Python, when doing division, you can use both // and / to divide numbers. // means floor or integer division, and / means floating point division.
+
+print(10/3)
+print(10//3)
+
+#Output:
+3.333333333333335
+3
+
+Q16. Write a code that gives following as an output.
+'''
+iNeuroniNeuroniNeuroniNeuron
+'''
+A16. print("iNeuron"*4)
+
+Q17. Write a code to take a number as an input from user and check if the number is odd or even 
+A17. 
+num = int(input("Enter a number: "))
+if (num % 2) == 0:
+   print("{0} is Even".format(num))
+else:
+   print("{0} is Odd".format(num))
+
+Output:
+Enter a number: 800
+800 is Even
+
+Q18. What are boolean operators?
+A18. The logical operators and, or and not are also referred to as boolean operators. While and as well as or operator needs two operands, which may evaluate to true or false, not operator needs one operand evaluating to true or false.
+     Boolean and operator returns true if both operands return true.
+     Boolean or operator returns true if any one operand is true.
+
+Q19. What will be the output of the following ?
+''''
+1 or 0
+
+0 and 0
+
+True and False and True
+
+1 or 0 or 0 
+''''
+A19.  1
+ 
+
+Q20. What are conditional statements in python ?
+A20. if <conditional>:
+      <Statement to be executed if the conditional evaluates to be True>
+
+	Here <conditional> can be any condition based on a combination of one or more variables.
+	The output of this conditional is a boolean expression that evaluates to be either 0 or 1 and based on the same statement or the set of statements mentioned under this conditional is executed
+	If this conditional evaluates to be true then the statement is executed else skipped
+	The colon(:) following the <conditional> is required, else python will throw an error.
+
+Q21. What is use of 'if' , 'elif' and 'else' keywords?
+A21. Three Python keywords are used for control flow: if, elif, and else. These Python keywords allow us to use conditional logic and execute code given certain conditions. 
+     The if keyword is used to start a conditional statement.
+     The elif statement allows us to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE.
+
+Q22. Write a code to take the age of person as an input and if age >=18 display "I can Vote". if age is < 18 display "I can't vote".
+A22. 
+num = int(input("Enter any Age : "))
+if (num) >= 18:
+   print("I can Vote")
+else:
+   print("I can't Vote")
+
+output:
+Enter any Age : 68
+I can Vote
+
+Q23. Write a code that displays the sum of all the even numbers from the given list .
+'''
+numbers =[12, 75, 150, 180, 145, 525, 50]
+'''
+A23.
+numbers =[12, 75, 150, 180, 145, 525, 50]
+sum = 0
+for i in numbers:
+    if (i%2)==0:
+        sum+= i
+    
+print("Total even numbers count to:",sum)
+
+output:
+Total even numbers count to: 392
+
+Q24. Write a code to take 3 numbers as an input from the user and display the greatest no as output.
+A24. 
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+num3 = float(input("Enter third number: "))
+ 
+if (num1 > num2) and (num1 > num3):
+   largest = num1
+elif (num2 > num1) and (num2 > num3):
+   largest = num2
+else:
+   largest = num3
+ 
+print("The largest number is",largest)
+
+output:
+Enter first number: 78
+Enter second number: 800
+Enter third number: 2009
+The largest number is 2009.0
+
+Q25. Write a program to dispaly only those numbers from the list that satisfy the following conditions
+- The number must be divisible by five
+- If the number is greater than 150, then skip it and move to the next number
+- If the number is greater then 500 , then stop the loop 
+
+'''
+numbers =[12, 75, 150, 180, 525, 50]
+'''
+A25.
+numbers =[12, 75, 150, 180, 525, 50]
+for i in numbers:
+    if (i%5==0 and i<150):
+        print(i)
+    elif (i > 500):
+        break
+
+output:
+75
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
